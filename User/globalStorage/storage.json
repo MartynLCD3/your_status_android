@@ -1,0 +1,58 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1689806626469": "__default__profile__",
+            "1689806688575": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "cf4258d412e066d6ae6378564078d5f16ef840fab0091d91d2b06a3e570a0c3d",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1689806626469"
+            },
+            {
+                "backupFolder": "1689806688575"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/compu/Pruebas/your_status_app/Backups/1689806626469",
+            "uiState": {
+                "mode": 1,
+                "x": 2,
+                "y": 18,
+                "width": 1362,
+                "height": 729
+            }
+        },
+        "openedWindows": [
+            {
+                "backupPath": "/home/compu/Pruebas/your_status_app/Backups/1689806626469",
+                "uiState": {
+                    "mode": 1,
+                    "x": 2,
+                    "y": 18,
+                    "width": 1362,
+                    "height": 729
+                }
+            },
+            {
+                "backupPath": "/home/compu/Pruebas/your_status_app/Backups/1689806688575",
+                "uiState": {
+                    "mode": 1,
+                    "x": 2,
+                    "y": 18,
+                    "width": 1362,
+                    "height": 729
+                }
+            }
+        ]
+    }
+}
