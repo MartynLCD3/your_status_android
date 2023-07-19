@@ -1,0 +1,7 @@
+{
+  "name": "your_status_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
